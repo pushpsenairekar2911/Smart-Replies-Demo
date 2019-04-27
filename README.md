@@ -11,7 +11,7 @@
 </br>
 </div>
 
-Smart-Replies-Demo iOS app  provides smart replies suggestions for a perticular message or a text. This app uses Firebase's smart reply feature to provide the output for a perticular message. 
+Smart-Replies-Demo iOS app provides smart replies suggestions for a particular message or a text. This app uses Firebase's smart reply feature to provide the output for a particular message.
 
 [![Platform](https://img.shields.io/badge/Platform-iOS-orange.svg)](https://github.com/pushpsenairekar2911/Smart-Replies-Demo)
 [![Languages](https://img.shields.io/badge/Language-Swift-orange.svg)](https://github.com/pushpsenairekar2911/Smart-Replies-Demo)
